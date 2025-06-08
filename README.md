@@ -44,9 +44,6 @@ Follow the instructions in the notebook to train and save the model.
 - **templates/**: HTML templates for the web application.
 - **static/**: Static files (CSS, JS) for the web application.
 
-## Acknowledgements
-
-- Special thanks to [contributors = Monty Chandela, Amit Kumar, Mukul Nagar]
 
 ## Dataset
 
